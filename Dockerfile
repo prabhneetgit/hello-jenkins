@@ -1,6 +1,6 @@
 #New Comment
 FROM node:latest
-FROM MAINTAINER prabhneet@gmail.com
+FROM MAINTAINER prabhneet.java@gmail.com
 
 # set default workdir
 WORKDIR /usr/src
